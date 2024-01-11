@@ -12,3 +12,17 @@ C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.frmPrincipal
 C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.Form3.resources
 C:\Users\20362351856\source\repos\SistemasMDS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
 C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.csproj.CopyComplete
+D:\Nico\Documents\GitHub\SistemasMDS\bin\Debug\SistemasMDS.exe.config
+D:\Nico\Documents\GitHub\SistemasMDS\bin\Debug\SistemasMDS.exe
+D:\Nico\Documents\GitHub\SistemasMDS\bin\Debug\SistemasMDS.pdb
+D:\Nico\Documents\GitHub\SistemasMDS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.csproj.AssemblyReference.cache
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.frmPrincipal.resources
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.Form2.resources
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.Form3.resources
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.Properties.Resources.resources
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.csproj.GenerateResource.cache
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.csproj.CoreCompileInputs.cache
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.csproj.CopyComplete
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.exe
+D:\Nico\Documents\GitHub\SistemasMDS\obj\Debug\SistemasMDS.pdb
