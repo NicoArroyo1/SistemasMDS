@@ -1,0 +1,14 @@
+C:\Users\20362351856\source\repos\SistemasMDS\bin\Debug\SistemasMDS.exe.config
+C:\Users\20362351856\source\repos\SistemasMDS\bin\Debug\SistemasMDS.exe
+C:\Users\20362351856\source\repos\SistemasMDS\bin\Debug\SistemasMDS.pdb
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.csproj.AssemblyReference.cache
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.Properties.Resources.resources
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.csproj.GenerateResource.cache
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.csproj.CoreCompileInputs.cache
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.exe
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.pdb
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.Form2.resources
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.frmPrincipal.resources
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.Form3.resources
+C:\Users\20362351856\source\repos\SistemasMDS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\20362351856\source\repos\SistemasMDS\obj\Debug\SistemasMDS.csproj.CopyComplete
