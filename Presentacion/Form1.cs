@@ -8,13 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemasMDS
+namespace SistemasMDS.Presentacion
 {
     public partial class frmPrincipal : Form
     {
         public frmPrincipal()
         {
-            InitializeComponent();
+            //InitializeComponent();
         }
 
         private void Form1_Load(object sender, EventArgs e)

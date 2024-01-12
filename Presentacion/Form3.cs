@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SistemasMDS
+namespace SistemasMDS.Presentacion
 {
     public partial class Form3 : Form
     {
