@@ -1,6 +1,6 @@
 ﻿namespace SistemasMDS.Presentacion
 {
-    partial class Form2
+    partial class frmCtrlMateriales
     {
         /// <summary>
         /// Required designer variable.

@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemasMDS.Presentacion
 {
-    public partial class Form2 : Form
+    public partial class frmCtrlMateriales : Form
     {
-        public Form2()
+        public frmCtrlMateriales()
         {
             InitializeComponent();
         }

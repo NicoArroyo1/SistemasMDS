@@ -37,12 +37,12 @@ namespace SistemasMDS.Presentacion
         private void MostrarFormHerramientasEnSplit()
         {
             splitContainer2.Panel2.Controls.Clear();
-            Form2 form2 = new Form2();
-            form2.TopLevel = false;
-            form2.FormBorderStyle = FormBorderStyle.None;
-            form2.Dock = DockStyle.Fill;
-            splitContainer2.Panel2.Controls.Add(form2);
-            form2.Show();
+            frmInsumos form = new frmInsumos();
+            form.TopLevel = false;
+            form.FormBorderStyle = FormBorderStyle.None;
+            form.Dock = DockStyle.Fill;
+            splitContainer2.Panel2.Controls.Add(form);
+            form.Show();
         }
 
         private void MostrarFormMaterialesEnSplit()
@@ -58,7 +58,7 @@ namespace SistemasMDS.Presentacion
 
         private void MostrarFormCtrlHerramientasEnSplit()
         {
-            Form2 form2 = new Form2();
+            frmCtrlMateriales form2 = new frmCtrlMateriales();
             form2.TopLevel = false;
             form2.FormBorderStyle = FormBorderStyle.None;
             form2.Dock = DockStyle.Fill;
@@ -68,7 +68,7 @@ namespace SistemasMDS.Presentacion
 
         private void MostrarFormCtrlMaterialesEnSplit()
         {
-            Form2 form2 = new Form2();
+            frmCtrlMateriales form2 = new frmCtrlMateriales();
             form2.TopLevel = false;
             form2.FormBorderStyle = FormBorderStyle.None;
             form2.Dock = DockStyle.Fill;
