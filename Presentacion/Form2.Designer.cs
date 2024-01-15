@@ -1,4 +1,4 @@
-﻿namespace SistemasMDS
+﻿namespace SistemasMDS.Presentacion
 {
     partial class Form2
     {
